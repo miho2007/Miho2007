@@ -18,15 +18,7 @@
 
 # 📊 GitHub Stats
 
-### 📈 GitHub Stats (Fast & Stable)
-![GitHub Stats](https://github‑readme‑stats‑fast.vercel.app/api?username=miho2007&theme=dark)
-
-### 🔥 Contribution Streak
-![GitHub Streak](https://github‑readme‑stats‑fast.vercel.app/api/streak?username=miho2007&theme=dark)
-
-### 🧠 Top Languages
-![Top Languages](https://github‑readme‑stats‑fast.vercel.app/api/top-langs?username=miho2007&theme=dark&layout=compact)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miho2007)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
