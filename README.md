@@ -11,6 +11,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=misho2007&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
