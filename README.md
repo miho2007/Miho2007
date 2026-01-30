@@ -22,12 +22,11 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-### >✍️ Random Dev Quote
-<p align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
-</p>
 
 ---
 
