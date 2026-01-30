@@ -15,10 +15,12 @@
 
 
 
+### 💻 My Skills
+
 <p align="center">
-  <img src="badge1" />&nbsp;<img src="badge2" />&nbsp;<img src="badge3" /><br/>
-  <img src="badge4" />&nbsp;<img src="badge5" />&nbsp;<img src="badge6" /><br/>
-  <img src="badge7" />&nbsp;<img src="badge8" />
+  ⚡ JavaScript | ![](https://img.shields.io/badge/90%25-yellow?style=for-the-badge)  
+  🐍 Python | ![](https://img.shields.io/badge/80%25-blue?style=for-the-badge)  
+  🟧 HTML | ![](https://img.shields.io/badge/85%25-orange?style=for-the-badge)  
 </p>
 
 
