@@ -19,9 +19,7 @@
 <details>
   <summary>Click to expand</summary>
 
-  ### This is inside the dropdown
-  - Item 1
-  - Item 2
-  - Item 3
+  ### About my coding journey 
+  - I will write something here probably
 
 </details>
