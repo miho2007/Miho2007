@@ -17,8 +17,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <details>
-  <summary>### About my coding journey</summary>
+  <summary>About my coding journey</summary>
 
-  - I will write something here probably
+   I will write something here probably
 
 </details>
