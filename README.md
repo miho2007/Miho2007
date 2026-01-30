@@ -19,6 +19,6 @@
 <details>
   <summary>About my coding journey</summary>
 
-    I will write something here probably
+  I will write something here probably
 
 </details>
