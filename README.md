@@ -18,12 +18,10 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miho2007&theme=dark&hide_border=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miho2007&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miho2007&theme=dark&hide_border=false&layout=compact)
-
+![Profile Views](https://img.shields.io/github/profile-view/miho2007?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/miho2007?style=for-the-badge)
+![Public Repos](https://img.shields.io/github/repos/miho2007?style=for-the-badge)
+![Languages](https://img.shields.io/github/languages/top/miho2007?style=for-the-badge)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
