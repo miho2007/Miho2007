@@ -15,13 +15,6 @@
 
 
 
-### 💻 My Skills
-
-<p align="center">
-  ⚡ JavaScript | ![](https://img.shields.io/badge/90%25-yellow?style=for-the-badge)  
-  🐍 Python | ![](https://img.shields.io/badge/80%25-blue?style=for-the-badge)  
-  🟧 HTML | ![](https://img.shields.io/badge/85%25-orange?style=for-the-badge)  
-</p>
 
 
 
