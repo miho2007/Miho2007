@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/miho2007/Miho2007/main/assets/cover.jpg" width="100%" />
+  <img src="./assets/cover.jpg" width="100%">
 </p>
 
 
