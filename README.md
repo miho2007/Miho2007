@@ -16,3 +16,12 @@
 [![](https://visitcount.itsvg.in/api?id=miho2007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details>
+  <summary>Click to expand</summary>
+
+  ### This is inside the dropdown
+  - Item 1
+  - Item 2
+  - Item 3
+
+</details>
