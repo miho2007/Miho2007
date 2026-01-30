@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="assets/cover.png" width="100%" />
+</p>
 
-[![MasterHead](your image link)]([your GitHub link](https://github.com/miho2007))
+
 
 
 ## 💾 Who am I?
@@ -30,3 +33,8 @@
   I will write something here probably
 
 </details>
+
+
+
+
+
