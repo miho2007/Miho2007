@@ -15,6 +15,13 @@
 
 
 
+### My Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-80%25-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-85%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
 
 
