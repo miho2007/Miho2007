@@ -17,9 +17,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <details>
-  <summary>Click to expand</summary>
+  <summary>### About my coding journey</summary>
 
-  ### About my coding journey 
   - I will write something here probably
 
 </details>
