@@ -16,9 +16,16 @@
 
 
 
+
+
 # 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miho2007)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-hrztq0ayn-miho2007s-projects.vercel.app/api?username=miho2007)
+
+![GitHub Streak](https://github-readme-stats-hrztq0ayn-miho2007s-projects.vercel.app/api/streak?username=miho2007)
+
+![Top Languages](https://github-readme-stats-hrztq0ayn-miho2007s-projects.vercel.app/api/top-langs?username=miho2007&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
