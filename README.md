@@ -15,12 +15,10 @@
 
 
 
-### My Skills
-
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-80%25-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-85%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="badge1" />&nbsp;<img src="badge2" />&nbsp;<img src="badge3" /><br/>
+  <img src="badge4" />&nbsp;<img src="badge5" />&nbsp;<img src="badge6" /><br/>
+  <img src="badge7" />&nbsp;<img src="badge8" />
 </p>
 
 
@@ -35,9 +33,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=miho2007&theme=react-dark&hide_border=true" />
-</div>
 
 
 
