@@ -17,7 +17,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![Visitor Count](https://profile-counter.glitch.me/miho2007/count.svg)
 
 <details>
   <summary>About my coding journey</summary>
