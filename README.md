@@ -18,10 +18,14 @@
 
 # 📊 GitHub Stats
 
-![Profile Views](https://img.shields.io/github/profile-view/miho2007?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/miho2007?style=for-the-badge)
-![Public Repos](https://img.shields.io/github/repos/miho2007?style=for-the-badge)
-![Languages](https://img.shields.io/github/languages/top/miho2007?style=for-the-badge)
+### 📈 GitHub Stats (Fast & Stable)
+![GitHub Stats](https://github‑readme‑stats‑fast.vercel.app/api?username=miho2007&theme=dark)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://github‑readme‑stats‑fast.vercel.app/api/streak?username=miho2007&theme=dark)
+
+### 🧠 Top Languages
+![Top Languages](https://github‑readme‑stats‑fast.vercel.app/api/top-langs?username=miho2007&theme=dark&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
