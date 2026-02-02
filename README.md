@@ -6,7 +6,13 @@
 
 
 ## 💾 Who am I?
-.......... UNDER DEVELOPEMENT ............
+I’m a young programmer who enjoys creating things — building my own small worlds inside the internet.
+
+Mastering technologies like Python, HTML/CSS/JavaScript, React, Angular, C#, and other tools allows me to fully use my creativity and bring ideas to life.
+
+I’m currently based in Tbilisi, Georgia, studying for my Bachelor’s degree at BTU (Business and Technology University).
+
+My goal is to keep learning, growing, and eventually find myself on the frontier of the future.
 
 
 # 💻 Tech Stack:
