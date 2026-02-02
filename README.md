@@ -34,7 +34,7 @@ My goal is to keep learning, growing, and eventually find myself on the frontier
 
 </div>
 
----
+
 
 
 ## Interesting projects:
