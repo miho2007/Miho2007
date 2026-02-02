@@ -44,12 +44,11 @@ My goal is to keep learning, growing, and eventually find myself on the frontier
   Under development
 </details>
 
+<details>
+  <summary><h3>pynity: https://github.com/miho2007/codelaxy</h3></summary>
 
-
-### pynity: https://github.com/miho2007/codelaxy
-
-
-
+  Under development
+</details>
 
 
 <details>
