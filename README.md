@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="./assets/159Z_2107.w026.n002.628B.p1.628.jpg" width="100%">
 </p>
@@ -38,7 +39,7 @@ My goal is to keep learning, growing, and eventually find myself on the frontier
 
 ## Interesting projects:
 <details>
-  <summary><h3>codelaxy: <a href="https://github.com/miho2007/pynity" style="text-decoration: none; color: inherit;">https://github.com/miho2007/pynity</a></h3></summary>
+  <summary><h3>codelaxy: https://github.com/miho2007/pynity</h3></summary>
 
   Under development
 </details>
