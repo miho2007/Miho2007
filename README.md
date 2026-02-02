@@ -6,7 +6,7 @@
 
 
 ## 💾 Who am I?
-I’m a young programmer who enjoys creating things — building my own small worlds inside the internet.
+I’m a young programmer who enjoys creating things — building my own small worlds on the internet.
 
 Mastering technologies like Python, HTML/CSS/JavaScript, React, Angular, C#, and other tools allows me to fully use my creativity and bring ideas to life.
 
