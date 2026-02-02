@@ -34,9 +34,14 @@ My goal is to keep learning, growing, and eventually find myself on the frontier
 </div>
 
 ## Interesting projects:
+<details>
+  <summmary> <h3>codelaxy: https://github.com/miho2007/pynity </h3> </summmary>
+  
 
-#### codelaxy: https://github.com/miho2007/pynity
-#### pynity: https://github.com/miho2007/codelaxy
+</details>
+
+
+### pynity: https://github.com/miho2007/codelaxy
 
 
 
