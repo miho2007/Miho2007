@@ -65,10 +65,31 @@ Think: **competitive programming + territory control**.
 </details>
 
 <details>
-  <summary><h3>pynity: https://github.com/miho2007/codelaxy</h3></summary>
+  <summary><h3>pynity</h3></summary>
 
-  Under development
+A simple **2D game editor** and **runtime engine** built in Python.  
+Import sprites, arrange them on a scene, attach multiple Python scripts, and export a playable game with one click!
+
+
+## 🚀 Features
+
+- 🖼️ Import and manage 2D image assets  
+- 🧩 Attach multiple Python scripts per object  
+- 🖱️ Drag, move, and delete objects directly in the scene editor  
+- 🌍 Move around and explore your scene  
+- 📦 Export the scene and run it instantly with `engine.py`  
+- ⚙️ Fully GUI-based editor (Tkinter)
+
+
+
+<img width="1248" height="660" alt="image" src="https://github.com/user-attachments/assets/e381d7b5-b3b5-418f-bb49-c9cdca72d13f" />
+
+
+  ### more info here --> : https://github.com/miho2007/codelaxy
 </details>
+
+---
+
 
 
 <details>
