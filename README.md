@@ -36,6 +36,9 @@ My goal is to keep learning, growing, and eventually find myself on the frontier
 ## Interesting projects:
 <details>
   <summmary> <h3>codelaxy: https://github.com/miho2007/pynity </h3> </summmary>
+
+
+  under developement
   
 
 </details>
