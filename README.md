@@ -39,9 +39,27 @@ My goal is to keep learning, growing, and eventually find myself on the frontier
 
 ## Interesting projects:
 <details>
-  <summary><h3>codelaxy: https://github.com/miho2007/pynity</h3></summary>
+  <summary><h3>codelaxy:</h3></summary>
 
-  Under development
+  Codelaxy is a coding challenge platform prototype that combines a Python CLI tool with a web-based hexagon map.
+Players solve programming problems locally, run automated tests, submit their solutions, and capture hexagons on a shared map when their solution passes.
+
+The project blends competitive programming, game mechanics, and Git-based synchronization — without requiring a backend server.
+
+## 🧠 Core Idea
+
+- Solve coding problems → gain territory  
+- Harder problems → stronger control  
+- Git acts as the synchronization layer  
+- The website visualizes the global game state  
+
+Think: **competitive programming + territory control**.
+
+
+<img width="873" height="705" alt="image" src="https://github.com/user-attachments/assets/83b15734-3ec4-470e-958b-4dc48a6fc629" />
+
+more info here --> https://github.com/miho2007/pynity
+
 </details>
 
 <details>
