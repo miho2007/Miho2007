@@ -93,7 +93,7 @@ Import sprites, arrange them on a scene, attach multiple Python scripts, and exp
 
 
 <details>
-  <summary>About my coding journey</summary>
+  <summary><h3>About my coding journey</h3></summary>
 
   .......... UNDER DEVELOPEMENT ............
 
