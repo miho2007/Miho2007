@@ -95,7 +95,30 @@ Import sprites, arrange them on a scene, attach multiple Python scripts, and exp
 <details>
   <summary><h3>About my coding journey</h3></summary>
 
-  .......... UNDER DEVELOPEMENT ............
+  It all started at school, where I was introduced to a little bit of HTML and CSS. I built very simple things back then and never really thought about programming seriously.
+
+  Everything changed when my father bought me an Arduino. That’s where things got real. Working with hardware sparked my interest, and during the COVID pandemic I decided to continue down that path.
+
+  After that, I started learning Python and created my first real project — IP_tool (you can find it here on my GitHub). To upload that project, I created this GitHub account, and on April 4, 2022, things          officially got serious.
+
+  Since then, I’ve been constantly learning and building. I completed CS50P and started a 2-year course at IT Academy Step Georgia, where I studied:
+
+  - HTML, CSS, JavaScript
+
+  - Angular
+
+  - SQL
+
+  - C# and .NET backend development
+
+  - Unity game development with C#
+
+  Later, I got into Business and Technology University in Tbilisi, where I’m currently studying.
+
+  Right now, my main goal is simple:
+  to keep learning, keep building, and work on more interesting and challenging projects.
+
+  This GitHub reflects that journey 🚀
 
 </details>
 
